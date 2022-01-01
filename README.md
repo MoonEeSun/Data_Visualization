@@ -4,3 +4,4 @@
 1. pandas & numpy
 2. matplotlib
 3. seaborn
+- 타이타닉 / iris dataset 사용
